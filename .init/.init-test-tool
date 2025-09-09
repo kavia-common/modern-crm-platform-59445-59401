@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/modern-crm-platform-59445-59401/crm_frontend"
+}
